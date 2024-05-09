@@ -31,7 +31,11 @@ I was Co-Captain of the EcoVolt Racing Team and part of the design and developme
     <img src="images/aerodinamica.jpg" alt="Blocks Diagram" style="width: 150px; height: auto;">
 </div>
 
-[![](https://img.shields.io/badge/SolidWorks-white)](#) [<img src="images/solid.png width="30"/>](#)
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/solid.png" alt="Blocks Diagram" style="width: 20px; height: auto;">
+    [![](https://img.shields.io/badge/SolidWorks-white)](#)
+</div>
+
 
 [View EcoVolt Racing Team Social Media](https://www.instagram.com/ecovoltccm/)
 
@@ -40,11 +44,7 @@ I was Co-Captain of the EcoVolt Racing Team and part of the design and developme
 ---
 ### 4. Fiel Oriented Current Control, Phase Transformations (Clark-Park Transformation )
 
-During my time at EcoVolt Racing Team, I contributed to the development of codes for efficient control of electric motors as part of a firmware development project. My contribution focused on two key areas:
-
-1. Implementation of Clarke and Park Transformations: I was responsible for implementing the Clarke and Park transformations. These transformations enable a clear and manageable representation of the motor's electrical variables, facilitating precise control of speed and torque.
-2. Integration of Field-Oriented Control (FOC) Method: Additionally, I integrated the Field-Oriented Control (FOC) method into our electric motor control systems. This technique utilizes the Clarke and Park transformations to decouple the control of motor current and voltage, allowing independent control of magnetic flux and torque.
-
+During my time at EcoVolt Racing Team, I contributed to the development of codes for efficient control of electric motors as part of a firmware development project. My contribution focused on two key areas: first, the implementation of Clarke and Park Transformations. I was responsible for implementing the Clarke and Park transformations. These transformations enable a clear and manageable representation of the motor's electrical variables, facilitating precise control of speed and torque. Next, integration of Field-Oriented Control (FOC). I integrated the Field-Oriented Control (FOC) method into our electric motor control systems. This technique utilizes the Clarke and Park transformations to decouple the control of motor current and voltage, allowing independent control of magnetic flux and torque.
 
 [View code on Github](https://github.com/anromero21/Shell-Firmware-2023.git)
 
