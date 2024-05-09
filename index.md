@@ -33,7 +33,7 @@ I was Co-Captain of the EcoVolt Racing Team and part of the design and developme
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/solid.png" alt="Blocks Diagram" style="width: 20px; height: auto;">
-    [![](https://img.shields.io/badge/SolidWorks-white)](#)
+    [![](https://img.shields.io/badge/SolidWorks-white?logo=SolidWorks)](#)
 </div>
 
 
