@@ -23,11 +23,16 @@ In this project, I undertook the following steps: firstly, the steering wheel an
 ---
 ### 3. Electric Prototype Design and Manufacture
 
-I was Co-Captain of the EcoVolt Racing Team and part of the design and development of cutting-edge electric prototypes to compete at Shell Eco-Marathon for 3 years. Furthermore I was in charge of Design and Aerodynamics, an area with a focus on optimizing the vehicle's body and the aerodynamic efficiency. In this role, I led a multidisciplinary team, contributing to the conceptualization, design, and manufacture of the body. My responsibilities included fabricating the vehicle bodie, designing and simulating car components using CAD software and working with a variety of machinery and tools. Additionally, I incorporated sustainable materials into the vehicle construction. We have been three-time champions of the Carbon Footprint Reduction Award. Throughout my tenure, I fostered a collaborative team environment, promoting open communication and teamwork to achieve project objectives. During my stay in the team I managed to participate in the construction of 3 prototypes.
+I was Co-Captain of the EcoVolt Racing Team and part of the design and development of cutting-edge electric prototypes to compete at Shell Eco-Marathon for 3 years. Furthermore I was in charge of Design and Aerodynamics, an area with a focus on optimizing the vehicle's body and the aerodynamic efficiency. In this role, I led a multidisciplinary team, contributing to the conceptualization, design, and manufacture of the body.
 
-<img src="images/volante.png" alt="Blocks Diagram" style="width: 450px; height: auto;"/>
-<img src="images/render.jpg" alt="Blocks Diagram" style="width: 450px; height: auto;"/>
-<img src="images/aerodinamica.jpg" alt="Blocks Diagram" style="width: 450px; height: auto;"/>
+
+My responsibilities included fabricating the vehicle bodie, designing and simulating car components using CAD software and working with a variety of machinery and tools. Additionally, I incorporated sustainable materials into the vehicle construction. We have been three-time champions of the Carbon Footprint Reduction Award. Throughout my tenure, I fostered a collaborative team environment, promoting open communication and teamwork to achieve project objectives. During my stay in the team I managed to participate in the construction of 3 prototypes.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/volante.png" alt="Blocks Diagram" style="width: 150px; height: auto;">
+    <img src="images/render.jpg" alt="Blocks Diagram" style="width: 150px; height: auto;">
+    <img src="images/aerodinamica.jpg" alt="Blocks Diagram" style="width: 150px; height: auto;">
+</div>
 
 [View EcoVolt Racing Team Social Media](https://www.instagram.com/ecovoltccm/)
 [View Teams's Video](https://www.instagram.com/reel/C2SM8KvsF1q/)
