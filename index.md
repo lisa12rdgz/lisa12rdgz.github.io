@@ -8,11 +8,6 @@ In many places like schools or offices, devices are often left turned on overnig
 
 <img src="images/multicontactoDb.png" alt="Blocks Diagram" style="width: 450px; height: auto;"/>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/microchiplogo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-    <img src="images/c#logo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-</div>
-
 [View code on Github](https://github.com/anromero21/Shell-Firmware-2023.git)
 
 ---
@@ -27,12 +22,6 @@ In this project, I implemented the following methodology: first, the steering wh
 <video controls src="images/Reto_Final.mp4" title="Final Results" width="450" height="270"></video>
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/c#logo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-    <img src="images/stm32logo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-    <img src="images/arduinologo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-</div>
-
 [View code on Github](https://github.com/anromero21/Shell-Firmware-2023.git)
 
 ---
@@ -46,11 +35,6 @@ I was Co-Captain of the EcoVolt Racing Team and part of the design and developme
     <img src="images/aerodinamica.jpg" alt="Blocks Diagram" style="width: 150px; height: auto;">
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/oa.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-    <img src="images/fusionlogo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-</div>
-
 
 
 [View EcoVolt Racing Team Social Media](https://www.instagram.com/ecovoltccm/)
@@ -61,11 +45,6 @@ I was Co-Captain of the EcoVolt Racing Team and part of the design and developme
 
 During my time at EcoVolt Racing Team, I contributed to the development of codes for efficient control of electric motors as part of a firmware development project. My contribution focused on two key areas: first, the implementation of Clarke and Park Transformations. I was responsible for implementing the Clarke and Park transformations. These transformations enable a clear and manageable representation of the motor's electrical variables, facilitating precise control of speed and torque. Next, integration of Field-Oriented Control (FOC). I integrated the Field-Oriented Control (FOC) method into our electric motor control systems. This technique utilizes the Clarke and Park transformations to decouple the control of motor current and voltage, allowing independent control of magnetic flux and torque.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/c#logo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-    <img src="images/c++logo.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-    <img src="images/plat.png" alt="Blocks Diagram" style="width: 25px; height: auto;">
-</div>
 
 [View code on Github](https://github.com/anromero21/Shell-Firmware-2023.git)
 
